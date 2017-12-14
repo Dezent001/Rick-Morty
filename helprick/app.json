@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "helprick",
+    "description": "An full new project",
+    "slug": "helprick",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./Screens/Icons/rick2.png",
+    "barStyle": "light-content",
+    "splash": {
+      "image": "./Screens/Icons/rick2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
